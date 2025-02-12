@@ -1,4 +1,4 @@
-<!DsoperezlisOCjavTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -39,8 +39,8 @@
     <div class="container">
         <section id="introduccion">
             <h2>Introducción</h2>
-<p>Autor:Francisco Javier Solis Pérez </p> 
-            <p>La inseguridad es uno de los principales problemas que afectan a nuestra comunidad. Este proyecto busca analizar las causas de la delincuencia local, sus efectos en la población y las posibles estrategias para mejorar la seguridad ciudadana.</p>
+<p>Autor: Francisco Javier Solis Pérez</p> 
+            <p>La inseguridad es uno de los principales problemas que afectan a nuestra comunidad. Este proyecto busca analizar las causas de la delincuencia local, sus efectos en la población y las [...]
             <p>A través del uso de tecnologías emergentes y estrategias de participación comunitaria, este proyecto propone soluciones viables que puedan ser implementadas a nivel local.</p>
         </section>
         <section id="tecnologias">
@@ -74,8 +74,8 @@
         </section>
         <section id="reflexion">
             <h2>Reflexión sobre el Desarrollo del Proyecto</h2>
-            <p>El desarrollo del proyecto ha sido un proceso desafiante, en el que se ha tenido que enfrentar la dificultad de recopilar datos confiables, coordinar con diferentes actores y superar limitaciones de financiamiento.</p>
-            <p>A pesar de estos desafíos, los avances logrados han sido significativos. Se ha logrado generar conciencia en la comunidad sobre la importancia de la seguridad y se han sentado las bases para la implementación de soluciones sostenibles a largo plazo.</p>
+            <p>El desarrollo del proyecto ha sido un proceso desafiante, en el que se ha tenido que enfrentar la dificultad de recopilar datos confiables, coordinar con diferentes actores y superar li[...]
+            <p>A pesar de estos desafíos, los avances logrados han sido significativos. Se ha logrado generar conciencia en la comunidad sobre la importancia de la seguridad y se han sentado las base[...]
         </section>
     </div>
 </body>
